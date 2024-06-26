@@ -40,14 +40,14 @@
   },
   "dependencies": {
     "ip": "^1.1.5",
-    "murmurhash3js": "^3.0.1"
+    "murmurhash3js": "^3.0.1",
+    "axios": "^1.0.1"
   },
   "peerDependencies": {
     "@nestjs/axios": "^1.0.1",
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/schedule": "^2.1.0",
-    "axios": "^1.0.1",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^7.3.0"
   },
